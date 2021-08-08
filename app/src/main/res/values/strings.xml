@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaContato</string>
+    <string name="iv_photograph_content_desctription">photograph</string>
+    <string name="menu_1">menu1</string>
+    <string name="menu_2">menu2</string>
+    <string name="open_drawer">abrir</string>
+    <string name="close_drawer">fechar</string>
+</resources>
